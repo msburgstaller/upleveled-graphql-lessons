@@ -1,3 +1,6 @@
 # UpLeveled
 
-See lesson readmes for more info
+- Organised in branches
+- Each branch contains one lesson
+  - `lesson-graphql-client`
+  - `lesson-graphql-server`
