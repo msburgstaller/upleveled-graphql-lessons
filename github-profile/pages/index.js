@@ -17,7 +17,7 @@ const client = new ApolloClient({
 
 const githubQuery = gql`
   query profileQuery {
-    user(login: "nikgraf") {
+    user(login: "msburgstaller") {
       id
       login
       avatarUrl
