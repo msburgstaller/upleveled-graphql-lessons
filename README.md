@@ -1,5 +1,12 @@
 # (Next) GraphQL Server
 
+## Schemas
+
+GraphQL is schema based. See https://graphql.org and https://graphql.org/learn/schema/
+
+- Static type system
+- Query & Mutation types seperate (-> translates to operation types query & mutation)
+
 ## Setup
 
 First, create a repository on GitHub, clone it and `cd` into the directory.
