@@ -17,6 +17,12 @@ Then run:
 npx create-next-app --example api-routes-apollo-server .
 ```
 
+An alternative, in case `npx` doesn't work for you:
+
+```sh
+yarn create next-app --example api-routes-apollo-server .
+```
+
 ## Development
 
 ```sh
