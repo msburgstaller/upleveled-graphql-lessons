@@ -11,6 +11,6 @@ exports.up = async (sql) => {
 exports.down = async (sql) => {
   sql`
       DELETE FROM todos
-        WHERE name IN ('Make Coffee', 'Call Mum')
+        WHERE title IN ('Make Coffee', 'Call Mum', 'My First Todo')
     `;
 };

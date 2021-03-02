@@ -122,7 +122,7 @@ What? 🤯
 
 - create manipulated property based on an existing one e.g. slug
 
-## Home work: Add Apollo Client
+## Apollo Client with Next
 
 - will only work on clientside
 - for server side just copy: https://github.com/zeit/next.js/tree/master/examples/api-routes-apollo-server-and-client
